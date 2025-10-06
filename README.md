@@ -49,7 +49,7 @@ This is where all raw production data is logged daily. It's designed to be strai
 -   **Ideal Parts/min:** The target production rate (calculated for convenience).
 
 *(Example image of the Data Entry Sheet)*
-![Data Entry Sheet](link-to-your-data-entry-sheet-image.png)
+![Data Entry Sheet](Images/Data_Entry_Sheet.png)
 
 ### 2. 📊 Dashboard Overview
 
@@ -62,7 +62,7 @@ This sheet automatically pulls data from the 'Data Entry' sheet and presents it 
 -   **Machine Filters:** Allows users to select and analyze OEE for specific machines.
 
 *(Example image of the OEE Dashboard)*
-![OEE Dashboard](link-to-your-dashboard-image.png)
+![OEE Dashboard](Images/OEE_Dashboard.png)
 
 ---
 
